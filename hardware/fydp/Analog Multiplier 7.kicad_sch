@@ -1088,7 +1088,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8afb7ccd-76d3-4554-b4be-3a42c0c5ac94)
   )
-  (text "ANALOG MULTIPLIER (7/8)" (at 102.87 22.86 0)
+  (text "ANALOG MULTIPLIER ([4,1] & [4,2])" (at 82.55 22.86 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid bacc7d65-59d7-4d9e-8e65-25ae02bfbdae)
   )

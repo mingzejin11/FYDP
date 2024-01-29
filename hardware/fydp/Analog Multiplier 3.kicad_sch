@@ -1083,7 +1083,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5e5fe3fa-0096-498d-9ec6-b2bed8e9507c)
   )
-  (text "ANALOG MULTIPLIER (3/8)" (at 102.87 22.86 0)
+  (text "ANALOG MULTIPLIER ([2,1] & [2,2])" (at 85.09 22.86 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid bacc7d65-59d7-4d9e-8e65-25ae02bfbdae)
   )

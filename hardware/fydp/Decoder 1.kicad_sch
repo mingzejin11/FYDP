@@ -1094,7 +1094,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9c0c954d-28f9-4a98-af38-fe4e7192b5ce)
   )
-  (text "DAC INPUTS DECODER & ADC OUTPUT DECODER" (at 59.69 26.67 0)
+  (text "DAC INPUTS DECODER & ADC OUTPUT DECODER (UNUSED)" (at 43.18 25.4 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid ac918350-8d07-44fa-9c03-76ea5db64c30)
   )
