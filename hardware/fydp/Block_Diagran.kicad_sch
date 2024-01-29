@@ -2807,7 +2807,7 @@
     (effects (font (size 5 5)) (justify left bottom))
     (uuid 243336df-c85d-4785-a442-f0e43fe05c6d)
   )
-  (text "BASIC BLOCK DIAGRAM FOR A 3X2 MATRIX.\nTHIS PROJECT USES THE SAME IDEA AS THIS BLOCK DIAGRAM BUT EXPANDS IT TO A 4X4 CASE."
+  (text "BASIC BLOCK DIAGRAM FOR A 3X2 MATRIX.\nTHIS PROJECT USES THE SAME IDEA AS THIS BLOCK DIAGRAM BUT EXPANDS IT TO A 4X2 CASE."
     (at 105.41 29.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2d1c0b99-41ea-4494-a5ff-2fd238fa34ce)
