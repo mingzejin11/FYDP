@@ -712,48 +712,20 @@
       "ANALOG MULTIPLIER 1"
     ],
     [
-      "44b59abc-75e0-482b-9ef5-c357b4efd80a",
+      "69da54a1-405a-4d91-8e2d-413b9853c244",
       "ANALOG MULTIPLIER 2"
     ],
     [
-      "69da54a1-405a-4d91-8e2d-413b9853c244",
+      "7719a1c5-5734-467c-aed3-5dd22e25139e",
       "ANALOG MULTIPLIER 3"
     ],
     [
-      "42c269de-595f-4108-9b8a-5e57a9532bba",
+      "5d4012a7-3d7d-449f-8df6-19f2bd68dd21",
       "ANALOG MULTIPLIER 4"
     ],
     [
-      "7719a1c5-5734-467c-aed3-5dd22e25139e",
-      "ANALOG MULTIPLIER 5"
-    ],
-    [
-      "a1365340-9868-4bf9-968b-82af122c8c46",
-      "ANALOG MULTIPLIER 6"
-    ],
-    [
-      "5d4012a7-3d7d-449f-8df6-19f2bd68dd21",
-      "ANALOG MULTIPLIER 7"
-    ],
-    [
-      "07c296f5-2895-4a44-9e35-2e638b884880",
-      "ANALOG MULTIPLIER 8"
-    ],
-    [
-      "4e10538a-49a7-48bd-950b-53ef0a138311",
-      "ADC 1"
-    ],
-    [
-      "2811f06a-70fe-4627-af09-f210adf72945",
-      "ADC 2"
-    ],
-    [
-      "1a33dfed-fe13-4b96-94df-a18f9250d50d",
-      "ADC 3"
-    ],
-    [
-      "95c89154-30f9-48ed-9162-c0872b7bd0e5",
-      "ADC 4"
+      "73c86c3b-470c-40c7-81cd-d0b9330aee23",
+      "ADC"
     ]
   ],
   "text_variables": {}
