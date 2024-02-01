@@ -672,13 +672,6 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "DAC_IN3_CS_L" (shape input) (at 55.88 50.8 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 1ce87fa8-a7f2-4fc6-ac9b-eccfbb8bb9a3)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 39.711 50.8 0)
-      (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
-  )
   (global_label "IN1" (shape input) (at 138.43 50.8 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 20f6b0cb-298a-4639-9370-c1ca4d1b6553)
@@ -707,9 +700,23 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
+  (global_label "DAC_IN2_CS_L" (shape input) (at 170.18 50.8 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 9d077f09-f791-45c7-9a57-833855a81ebd)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 154.011 50.8 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "DAC_IN1_CS_L" (shape input) (at 55.88 50.8 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid b7266f17-91ce-4563-981e-ef5c64cbeb8a)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 39.711 50.8 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
   (global_label "DAC_IN3_CS_L" (shape input) (at 55.88 109.22 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
-    (uuid c495f78e-61a6-4e50-9fd0-563686fab8d1)
+    (uuid b8fe94de-b6c3-46cd-90ce-4b4d662d97a2)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 39.711 109.22 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
@@ -719,13 +726,6 @@
     (uuid c7a626ff-8ee8-4ea0-a392-7e0430b45027)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 141.0524 163.83 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "DAC_IN3_CS_L" (shape input) (at 170.18 50.8 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid daba9581-c5d9-46dd-b71d-a0eb61e3ad26)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 154.011 50.8 0)
-      (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
   (global_label "IN4" (shape input) (at 252.73 109.22 0) (fields_autoplaced)
@@ -762,7 +762,7 @@
           (reference "C51") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "C194") (unit 1)
+          (reference "C19") (unit 1)
         )
       )
     )
@@ -793,7 +793,7 @@
           (reference "#PWR079") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR0292") (unit 1)
+          (reference "#PWR064") (unit 1)
         )
       )
     )
@@ -825,7 +825,7 @@
           (reference "C51") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "C197") (unit 1)
+          (reference "C20") (unit 1)
         )
       )
     )
@@ -854,7 +854,7 @@
           (reference "R52") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "R78") (unit 1)
+          (reference "R57") (unit 1)
         )
       )
     )
@@ -885,7 +885,7 @@
           (reference "#PWR079") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR0300") (unit 1)
+          (reference "#PWR070") (unit 1)
         )
       )
     )
@@ -913,7 +913,7 @@
           (reference "#PWR021") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR041") (unit 1)
+          (reference "#PWR066") (unit 1)
         )
       )
     )
@@ -944,7 +944,7 @@
           (reference "#PWR079") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR0296") (unit 1)
+          (reference "#PWR065") (unit 1)
         )
       )
     )
@@ -980,7 +980,7 @@
           (reference "U13") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "U52") (unit 1)
+          (reference "U9") (unit 1)
         )
       )
     )
@@ -1011,7 +1011,7 @@
           (reference "#PWR075") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR0302") (unit 1)
+          (reference "#PWR075") (unit 1)
         )
       )
     )
@@ -1047,7 +1047,7 @@
           (reference "U13") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "U51") (unit 1)
+          (reference "U8") (unit 1)
         )
       )
     )
@@ -1075,7 +1075,7 @@
           (reference "#PWR021") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR073") (unit 1)
         )
       )
     )
@@ -1106,7 +1106,7 @@
           (reference "#PWR075") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR0290") (unit 1)
+          (reference "#PWR068") (unit 1)
         )
       )
     )
@@ -1137,7 +1137,7 @@
           (reference "#PWR075") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR0294") (unit 1)
+          (reference "#PWR069") (unit 1)
         )
       )
     )
@@ -1169,7 +1169,7 @@
           (reference "C51") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "C200") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
     )
@@ -1205,7 +1205,7 @@
           (reference "U13") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "U50") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -1214,7 +1214,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 53.34 168.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8a0bcb72-4e1c-44c7-81e1-419b0762bd9d)
-    (property "Reference" "J8" (at 53.975 163.83 0)
+    (property "Reference" "J14" (at 53.975 163.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x02_Pin" (at 53.975 166.37 0)
@@ -1231,7 +1231,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "J8") (unit 1)
+          (reference "J14") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/252f6ad9-45e0-4005-acd7-c69776b48ba5"
           (reference "J9") (unit 1)
@@ -1263,7 +1263,7 @@
           (reference "R52") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "R77") (unit 1)
+          (reference "R56") (unit 1)
         )
       )
     )
@@ -1294,7 +1294,7 @@
           (reference "#PWR079") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR0304") (unit 1)
+          (reference "#PWR071") (unit 1)
         )
       )
     )
@@ -1325,7 +1325,7 @@
           (reference "#PWR075") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR0298") (unit 1)
+          (reference "#PWR074") (unit 1)
         )
       )
     )
@@ -1353,7 +1353,7 @@
           (reference "#PWR021") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR072") (unit 1)
         )
       )
     )
@@ -1381,7 +1381,7 @@
           (reference "#PWR021") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "#PWR042") (unit 1)
+          (reference "#PWR067") (unit 1)
         )
       )
     )
@@ -1417,7 +1417,7 @@
           (reference "U13") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "U49") (unit 1)
+          (reference "U6") (unit 1)
         )
       )
     )
@@ -1449,7 +1449,7 @@
           (reference "C51") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/90317f24-347c-44df-9b72-f1982f583daa"
-          (reference "C203") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )

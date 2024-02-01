@@ -1723,7 +1723,7 @@
           (reference "#PWR0250") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0107") (unit 1)
+          (reference "#PWR0188") (unit 1)
         )
       )
     )
@@ -1754,7 +1754,7 @@
           (reference "#PWR050") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR0182") (unit 1)
         )
       )
     )
@@ -1786,7 +1786,7 @@
           (reference "R74") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R30") (unit 1)
+          (reference "R91") (unit 1)
         )
       )
     )
@@ -1823,7 +1823,7 @@
           (reference "#PWR0250") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0104") (unit 1)
+          (reference "#PWR0191") (unit 1)
         )
       )
     )
@@ -1832,7 +1832,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 231.14 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1581c97d-86f5-405d-ae51-cd8d44db8284)
-    (property "Reference" "TP5" (at 229.87 132.08 0)
+    (property "Reference" "TP26" (at 229.87 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 229.87 134.62 0)
@@ -1848,7 +1848,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "TP5") (unit 1)
+          (reference "TP26") (unit 1)
         )
       )
     )
@@ -1880,7 +1880,7 @@
           (reference "R74") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R38") (unit 1)
+          (reference "R95") (unit 1)
         )
       )
     )
@@ -1889,7 +1889,7 @@
   (symbol (lib_id "Device:R") (at 97.79 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3d19b5ba-4492-46a1-b5b8-62d9a55e7de3)
-    (property "Reference" "R36" (at 100.33 106.68 0)
+    (property "Reference" "R88" (at 100.33 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0" (at 100.33 109.22 0)
@@ -1906,7 +1906,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R36") (unit 1)
+          (reference "R88") (unit 1)
         )
       )
     )
@@ -1938,7 +1938,7 @@
           (reference "R74") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R29") (unit 1)
+          (reference "R90") (unit 1)
         )
       )
     )
@@ -1975,7 +1975,7 @@
           (reference "#PWR0250") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR063") (unit 1)
+          (reference "#PWR0183") (unit 1)
         )
       )
     )
@@ -2009,7 +2009,7 @@
           (reference "#PWR0179") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR0184") (unit 1)
         )
       )
     )
@@ -2046,7 +2046,7 @@
           (reference "#PWR0250") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0108") (unit 1)
+          (reference "#PWR0186") (unit 1)
         )
       )
     )
@@ -2078,7 +2078,7 @@
           (reference "R74") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R32") (unit 1)
+          (reference "R93") (unit 1)
         )
       )
     )
@@ -2116,7 +2116,7 @@
           (reference "C166") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "C4") (unit 1)
+          (reference "C57") (unit 1)
         )
       )
     )
@@ -2153,7 +2153,7 @@
           (reference "#PWR0250") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR065") (unit 1)
+          (reference "#PWR0190") (unit 1)
         )
       )
     )
@@ -2162,7 +2162,7 @@
   (symbol (lib_id "Device:R") (at 62.23 116.84 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp yes)
     (uuid 7857ab64-bb1b-42f7-bd87-920192706589)
-    (property "Reference" "R34" (at 62.23 119.38 90)
+    (property "Reference" "R89" (at 62.23 119.38 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0" (at 62.23 121.92 90)
@@ -2179,7 +2179,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R34") (unit 1)
+          (reference "R89") (unit 1)
         )
       )
     )
@@ -2217,7 +2217,7 @@
           (reference "C166") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "C2") (unit 1)
+          (reference "C56") (unit 1)
         )
       )
     )
@@ -2226,7 +2226,7 @@
   (symbol (lib_id "power:GND") (at 16.51 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7a4f93d5-eaef-48ba-844f-2484cca0ad88)
-    (property "Reference" "#PWR0208" (at 16.51 105.41 0)
+    (property "Reference" "#PWR0194" (at 16.51 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 16.51 104.14 0)
@@ -2242,7 +2242,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0208") (unit 1)
+          (reference "#PWR0194") (unit 1)
         )
       )
     )
@@ -2251,7 +2251,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 33.02 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b47943f-5127-4bd8-887f-765b280b21b7)
-    (property "Reference" "TP1" (at 31.75 109.22 0)
+    (property "Reference" "TP24" (at 31.75 109.22 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 31.75 111.76 0)
@@ -2267,7 +2267,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "TP1") (unit 1)
+          (reference "TP24") (unit 1)
         )
       )
     )
@@ -2276,7 +2276,7 @@
   (symbol (lib_id "Connector:Conn_01x07_Pin") (at 27.94 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7c024d4b-1c2a-4e2b-a098-51a854696682)
-    (property "Reference" "J11" (at 28.575 163.83 0)
+    (property "Reference" "J20" (at 28.575 163.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x07_Pin" (at 28.575 166.37 0)
@@ -2298,7 +2298,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "J11") (unit 1)
+          (reference "J20") (unit 1)
         )
       )
     )
@@ -2307,7 +2307,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 82.55 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c4dd5ab-93c0-4d3c-8c17-527db7627c50)
-    (property "Reference" "TP48" (at 81.28 54.61 0)
+    (property "Reference" "TP22" (at 81.28 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 81.28 57.15 0)
@@ -2323,7 +2323,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "TP48") (unit 1)
+          (reference "TP22") (unit 1)
         )
       )
     )
@@ -2361,7 +2361,7 @@
           (reference "C166") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "C6") (unit 1)
+          (reference "C58") (unit 1)
         )
       )
     )
@@ -2370,7 +2370,7 @@
   (symbol (lib_id "power:GND") (at 185.42 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9027ebd1-8d96-45da-9589-c6d4e6086df8)
-    (property "Reference" "#PWR0305" (at 185.42 119.38 0)
+    (property "Reference" "#PWR0197" (at 185.42 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 185.42 118.11 0)
@@ -2386,7 +2386,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0305") (unit 1)
+          (reference "#PWR0197") (unit 1)
         )
       )
     )
@@ -2420,7 +2420,7 @@
           (reference "#PWR0180") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR0189") (unit 1)
         )
       )
     )
@@ -2452,7 +2452,7 @@
           (reference "R74") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R39") (unit 1)
+          (reference "R96") (unit 1)
         )
       )
     )
@@ -2461,7 +2461,7 @@
   (symbol (lib_id "power:GND") (at 114.3 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 97c45515-46e5-47c0-a5cb-ef73bb924cb9)
-    (property "Reference" "#PWR0244" (at 114.3 119.38 0)
+    (property "Reference" "#PWR0196" (at 114.3 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 114.3 118.11 0)
@@ -2477,7 +2477,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0244") (unit 1)
+          (reference "#PWR0196") (unit 1)
         )
       )
     )
@@ -2486,7 +2486,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 184.15 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 99ffda7d-6373-4049-a216-aea6e8aa5162)
-    (property "Reference" "TP2" (at 182.88 132.08 0)
+    (property "Reference" "TP25" (at 182.88 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 182.88 134.62 0)
@@ -2502,7 +2502,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "TP2") (unit 1)
+          (reference "TP25") (unit 1)
         )
       )
     )
@@ -2511,7 +2511,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 231.14 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a6ff1c01-cab6-438d-88d9-7fe0522211a3)
-    (property "Reference" "TP6" (at 229.87 142.24 0)
+    (property "Reference" "TP28" (at 229.87 142.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 229.87 144.78 0)
@@ -2527,7 +2527,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "TP6") (unit 1)
+          (reference "TP28") (unit 1)
         )
       )
     )
@@ -2536,7 +2536,7 @@
   (symbol (lib_id "power:GND") (at 88.9 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid acababe7-9f9c-4ea7-98bb-6f3aedba164e)
-    (property "Reference" "#PWR0279" (at 88.9 120.65 0)
+    (property "Reference" "#PWR0198" (at 88.9 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 88.9 119.38 0)
@@ -2552,7 +2552,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0279") (unit 1)
+          (reference "#PWR0198") (unit 1)
         )
       )
     )
@@ -2561,7 +2561,7 @@
   (symbol (lib_id "Device:R") (at 26.67 90.17 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp yes)
     (uuid acb5315f-130a-4fa0-a9ec-c62379433cad)
-    (property "Reference" "R33" (at 26.67 92.71 90)
+    (property "Reference" "R86" (at 26.67 92.71 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0" (at 26.67 95.25 90)
@@ -2578,7 +2578,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R33") (unit 1)
+          (reference "R86") (unit 1)
         )
       )
     )
@@ -2615,7 +2615,7 @@
           (reference "#PWR0250") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0103") (unit 1)
+          (reference "#PWR0193") (unit 1)
         )
       )
     )
@@ -2624,7 +2624,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 92.71 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b6e88035-3606-43a8-9adf-3184a50854c6)
-    (property "Reference" "TP49" (at 91.44 39.37 0)
+    (property "Reference" "TP21" (at 91.44 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 91.44 41.91 0)
@@ -2640,7 +2640,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "TP49") (unit 1)
+          (reference "TP21") (unit 1)
         )
       )
     )
@@ -2678,7 +2678,7 @@
           (reference "C168") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "C24") (unit 1)
+          (reference "C61") (unit 1)
         )
       )
     )
@@ -2712,7 +2712,7 @@
           (reference "#PWR0180") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR073") (unit 1)
+          (reference "#PWR0185") (unit 1)
         )
       )
     )
@@ -2749,7 +2749,7 @@
           (reference "#PWR0252") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0112") (unit 1)
+          (reference "#PWR0200") (unit 1)
         )
       )
     )
@@ -2787,7 +2787,7 @@
           (reference "C166") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "C17") (unit 1)
+          (reference "C55") (unit 1)
         )
       )
     )
@@ -2825,7 +2825,7 @@
           (reference "R64") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R40") (unit 1)
+          (reference "R84") (unit 1)
         )
       )
     )
@@ -2857,7 +2857,7 @@
           (reference "R74") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R31") (unit 1)
+          (reference "R92") (unit 1)
         )
       )
     )
@@ -2894,7 +2894,7 @@
           (reference "#PWR0250") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR064") (unit 1)
+          (reference "#PWR0187") (unit 1)
         )
       )
     )
@@ -2903,7 +2903,7 @@
   (symbol (lib_id "LTC2353ILX-16-PBF:LTC2353ILX-16-PBF") (at 116.84 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid da2ac8ea-154d-4507-994d-4601d1efc3c9)
-    (property "Reference" "U53" (at 149.86 34.29 0)
+    (property "Reference" "U34" (at 149.86 34.29 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "LTC2353ILX-16-PBF" (at 149.86 36.83 0)
@@ -2966,7 +2966,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "U53") (unit 1)
+          (reference "U34") (unit 1)
         )
       )
     )
@@ -2975,7 +2975,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 184.15 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid da497928-8a7f-4de1-b87d-16351cd023e3)
-    (property "Reference" "TP3" (at 182.88 142.24 0)
+    (property "Reference" "TP27" (at 182.88 142.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 182.88 144.78 0)
@@ -2991,7 +2991,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "TP3") (unit 1)
+          (reference "TP27") (unit 1)
         )
       )
     )
@@ -3019,7 +3019,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR0192") (unit 1)
         )
       )
     )
@@ -3028,7 +3028,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 231.14 160.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ddfebb4d-66a1-4c0b-97fe-dd562c9de9e1)
-    (property "Reference" "TP7" (at 229.87 152.4 0)
+    (property "Reference" "TP29" (at 229.87 152.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 229.87 154.94 0)
@@ -3044,7 +3044,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "TP7") (unit 1)
+          (reference "TP29") (unit 1)
         )
       )
     )
@@ -3053,7 +3053,7 @@
   (symbol (lib_id "Device:R") (at 88.9 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e0d2e3e9-cca8-45ed-a230-eb803a485595)
-    (property "Reference" "R35" (at 91.44 106.68 0)
+    (property "Reference" "R87" (at 91.44 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1K" (at 91.44 109.22 0)
@@ -3070,7 +3070,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R35") (unit 1)
+          (reference "R87") (unit 1)
         )
       )
     )
@@ -3108,7 +3108,7 @@
           (reference "C166") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "C3") (unit 1)
+          (reference "C59") (unit 1)
         )
       )
     )
@@ -3145,7 +3145,7 @@
           (reference "#PWR0250") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0111") (unit 1)
+          (reference "#PWR0195") (unit 1)
         )
       )
     )
@@ -3183,7 +3183,7 @@
           (reference "R64") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R83") (unit 1)
+          (reference "R85") (unit 1)
         )
       )
     )
@@ -3192,7 +3192,7 @@
   (symbol (lib_id "power:GND") (at 97.79 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ee8e1213-c957-4f9d-a54f-4663d6507c64)
-    (property "Reference" "#PWR0280" (at 97.79 120.65 0)
+    (property "Reference" "#PWR0199" (at 97.79 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 97.79 119.38 0)
@@ -3208,7 +3208,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "#PWR0280") (unit 1)
+          (reference "#PWR0199") (unit 1)
         )
       )
     )
@@ -3246,7 +3246,7 @@
           (reference "C166") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "C18") (unit 1)
+          (reference "C60") (unit 1)
         )
       )
     )
@@ -3278,7 +3278,7 @@
           (reference "R74") (unit 1)
         )
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "R37") (unit 1)
+          (reference "R94") (unit 1)
         )
       )
     )
@@ -3287,7 +3287,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 38.1 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa6435c4-6fb0-4d0f-87ab-272ce687ad09)
-    (property "Reference" "TP45" (at 36.83 82.55 0)
+    (property "Reference" "TP23" (at 36.83 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 36.83 85.09 0)
@@ -3303,7 +3303,7 @@
     (instances
       (project "fydp"
         (path "/2d5d1aad-2c7d-465e-90ef-822dec61a05e/73c86c3b-470c-40c7-81cd-d0b9330aee23"
-          (reference "TP45") (unit 1)
+          (reference "TP23") (unit 1)
         )
       )
     )
