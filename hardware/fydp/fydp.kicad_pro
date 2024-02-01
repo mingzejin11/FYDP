@@ -4,11 +4,11 @@
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.09999999999999999,
-        "copper_line_width": 0.19999999999999998,
+        "copper_line_width": 0.127,
         "copper_text_italic": false,
-        "copper_text_size_h": 1.5,
-        "copper_text_size_v": 1.5,
-        "copper_text_thickness": 0.3,
+        "copper_text_size_h": 0.635,
+        "copper_text_size_v": 0.635,
+        "copper_text_thickness": 0.127,
         "copper_text_upright": false,
         "courtyard_line_width": 0.049999999999999996,
         "dimension_precision": 4,
@@ -23,29 +23,29 @@
         },
         "fab_line_width": 0.09999999999999999,
         "fab_text_italic": false,
-        "fab_text_size_h": 1.0,
-        "fab_text_size_v": 1.0,
-        "fab_text_thickness": 0.15,
+        "fab_text_size_h": 0.635,
+        "fab_text_size_v": 0.635,
+        "fab_text_thickness": 0.127,
         "fab_text_upright": false,
         "other_line_width": 0.15,
         "other_text_italic": false,
-        "other_text_size_h": 1.0,
-        "other_text_size_v": 1.0,
-        "other_text_thickness": 0.15,
+        "other_text_size_h": 0.635,
+        "other_text_size_v": 0.635,
+        "other_text_thickness": 0.127,
         "other_text_upright": false,
         "pads": {
           "drill": 0.762,
           "height": 1.524,
           "width": 1.524
         },
-        "silk_line_width": 0.15,
+        "silk_line_width": 0.127,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.15,
+        "silk_text_size_h": 0.635,
+        "silk_text_size_v": 0.635,
+        "silk_text_thickness": 0.127,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.09999999999999999
         }
       },
       "diff_pair_dimensions": [
@@ -453,134 +453,6 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "/POWER/PP3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/POWER/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/POWER/PP15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/POWER/PN15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 1/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 1/PP15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 2/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 2/PP15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 3/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 3/PP15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 4/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 4/PP15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 6/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 6/PP15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 5/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 5/PP15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 7/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 7/PP15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 8/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 8/PP15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/DAC INPUTS/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ADC 1/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ADC 1/PP3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ADC 2/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ADC 2/PP3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ADC 3/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ADC 3/PP3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ADC 4/PP5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ADC 4/PP3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/DECODER 1/PP3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/DECODER 2/PP3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/USBC RECEPTACLE/PP5V0"
-      },
-      {
-        "netclass": "Power",
         "pattern": "/USBC RECEPTACLE/PP5V0_USBC"
       },
       {
@@ -593,39 +465,19 @@
       },
       {
         "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 1/PN15V0"
+        "pattern": "+3.3V"
       },
       {
         "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 2/PN15V0"
+        "pattern": "+5V"
       },
       {
         "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 3/PN15V0"
+        "pattern": "+15V"
       },
       {
         "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 4/PN15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 5/PN15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 6/PN15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 7/PN15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/ANALOG MULTIPLIER 8/PN15V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "/POWER/PN15V0"
+        "pattern": "-15V"
       },
       {
         "netclass": "Power",
