@@ -40,8 +40,6 @@
     (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 5811d425-cb42-4036-9227-3251879f710d))
   (fp_line (start 3.3782 1.8796) (end 3.3782 -1.8796)
     (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 5e09874c-583a-4764-9b0b-5ae002cf39d7))
-  (fp_circle (center -4.5212 3.6449) (end -4.3942 3.6449)
-    (stroke (width 0.1524) (type solid)) (fill none) (layer "F.SilkS") (tstamp 362301e9-c169-4d00-8aa6-035d44dc6ebc))
   (fp_poly
     (pts
       (xy 1.6002 -4.3561)
@@ -120,4 +118,9 @@
   (pad "1" smd rect (at -2.3 3.2258) (size 0.8636 1.5494) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 94a44165-ac9c-4964-9bf8-c2668169fddb))
   (pad "2" smd rect (at 0 3.2258) (size 0.8636 1.5494) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 23d975ac-10ed-47b4-86a5-f79c08f395ff))
   (pad "3" smd rect (at 2.3 3.2258) (size 0.8636 1.5494) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4619bedb-b4cd-4260-a527-4e8b5ae7da94))
+  (model "C:/Users/Mingze/Documents/KiCad/7.0/projects/FYDP/hardware/Components/AZ1117IH-3.3TRG1/SOT223-3.step"
+    (offset (xyz 1.5 3.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )
