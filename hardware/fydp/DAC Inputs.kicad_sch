@@ -1271,7 +1271,7 @@
     (property "Reference" "J14" (at 53.975 163.83 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02_Pin" (at 53.975 166.37 0)
+    (property "Value" "TSW-102-07-G-S" (at 53.975 166.37 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 53.34 168.91 0)

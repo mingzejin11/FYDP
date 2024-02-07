@@ -1261,7 +1261,7 @@
     (property "Reference" "J4" (at 267.97 54.61 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Conn_01x08_Pin" (at 267.97 57.15 0)
+    (property "Value" "TSW-108-07-G-S" (at 267.97 57.15 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" (at 266.7 54.61 0)
