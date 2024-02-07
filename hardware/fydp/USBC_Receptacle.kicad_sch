@@ -2029,7 +2029,7 @@
     (property "Value" "1751248" (at 168.91 46.99 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" (at 172.72 49.53 0)
+    (property "Footprint" "1751248:CONN_1751248_PXC" (at 172.72 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/640/1751248.pdf" (at 172.72 49.53 0)
